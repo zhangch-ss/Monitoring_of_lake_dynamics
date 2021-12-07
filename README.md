@@ -15,8 +15,9 @@ Please use python 3.7.
 Other dependent packages include gdal, opencv, etc.,in requirements.txt. Just follow the prompts and click install.
 
 ## Citation
-Please cite our preliminary work if you use this code:.\
-Zhang C, Lv A, Zhu W, Yao G, Qi S. Using Multisource Satellite Data to Investigate Lake Area, Water Level, and Water Storage Changes of Terminal Lakes in Ungauged Regions. Remote Sensing. 2021; 13(16):3221. https://doi.org/10.3390/rs13163221. .\
+Please cite our preliminary work if you use this code:\
+Zhang C, Lv A, Zhu W, Yao G, Qi S. Using Multisource Satellite Data to Investigate Lake Area, Water Level, and Water Storage Changes of Terminal Lakes in Ungauged Regions. Remote Sensing. 2021; 13(16):3221. https://doi.org/10.3390/rs13163221. 
+\
 More detailed code explanations and application examples are under review in the form of academic articles.
 
 ## Welcome to communicate
