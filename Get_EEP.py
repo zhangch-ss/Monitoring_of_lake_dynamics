@@ -16,7 +16,7 @@ def get_EEP(file_path):
     for file in file_name:
         print('Date', file)
         date_list.append(file)
-        data = pd.read_excel(os.path.join(file_path, file, 'Elevation.xls'), header=None)
+        data = pd.read_excel(os.path.join(file_path, file, 'Elevation.xlsx'), header=None)
         data_i_ary = np.array(data)
         data_i_ary = data_i_ary[~np.isnan(data_i_ary)]
         list_point = []
