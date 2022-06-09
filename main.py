@@ -12,9 +12,9 @@ def main_all(img_path, alt_path):
     all_get_lake_level(img_path, alt_path)
 
 
-# 1, 2, 3
+# img: 1, 2, 3
 img_name_list = ['Landsat7', 'Landsat8', 'Sentinel2']
-# 1, 2, 3
+# alt: 1, 2, 3
 alt_name_list = ['CryoSat2', 'ICESat2', 'Sentinel3']
 
 # 11,12,13,21,22,23,31,32,33
