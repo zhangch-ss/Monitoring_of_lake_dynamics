@@ -9,7 +9,7 @@ from main_get_lake_level import all_get_lake_level
 def main_all(img_path, alt_path):
     all_filter(img_path, alt_path)
     all_area_shp(img_path, alt_path)
-    all_get_lake_level(alt_path, img_path)
+    all_get_lake_level(img_path, alt_path)
 
 
 # 1, 2, 3
