@@ -15,7 +15,7 @@ Please use python 3.7.
 Other dependent packages include gdal, opencv, etc.,in requirements.txt. Just follow the prompts and click install.
 
 ## Image preprocessing
-1. [Calculate MNDWI in GEE](https://code.earthengine.google.com/?scriptPath=users%2Fa1091679080%2Flandsat8%3ALandsat7_download)
+1. [Calculate MNDWI in GEE](https://code.earthengine.google.com/9a3498f8921539d62a70988446746198)
 2. [Export the results to Google drive](https://blog.csdn.net/qq_45723511/article/details/120006690)
 
 ## Citation
