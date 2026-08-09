@@ -1,3 +1,5 @@
+
+
 # Monitoring of lake dynamics
 This is a program that uses multi-source remote sensing data to monitor the dynamic changes of lakes.
 The detailed introduction of the modified procedure and specific application examples will be presented in the form of a paper in the near future.
@@ -11,8 +13,8 @@ To use this program, you need to use the water index image as input. It is recom
 Other precautions are detailed in the program.
 
 ## Requirements
-Please use python 3.7.
-Other dependent packages include gdal, opencv, etc.,in requirements.txt. Just follow the prompts and click install.
+Please use Python 3.7.
+Other dependent packages (e.g., gdal, opencv) are listed in `requirements.txt`. Install them by running `pip install -r requirements.txt`.
 
 ## Image preprocessing
 1. [Calculate MNDWI in GEE](https://code.earthengine.google.com/9a3498f8921539d62a70988446746198)
